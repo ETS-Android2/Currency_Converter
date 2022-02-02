@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">Currency Converter</string>
+
+    <!--Dollar/Euro Activity buttons-->
+    <string name="euro_to_dollar">Euro (€) To Dollar ($)</string>
+    <string name="dollar_to_euro">Dollar ($) To Euro (€)</string>
+
+    <!--Edit Text-->
+    <string name="enter_amount_here">Enter amount here</string>
+
+    <!--Main Activity Buttons-->
+    <string name="sterling">Sterling (£)</string>
+    <string name="brazilian_real">Brazilian Real (R$)</string>
+    <string name="dollar">Dollar ($)</string>
+    <string name="rupee">Rupee (₹)</string>
+
+    <!--Euro/BRL Buttons-->
+    <string name="euro_to_brazilian_real">Euro (€) To Brazilian Real (R$)</string>
+    <string name="brazilian_real_to_euro">Brazilian Real (R$) To Euro (€)</string>
+
+    <!--Euro/Sterling buttons-->
+    <string name="euro_to_sterling">Euro (€) To Sterling (£)</string>
+    <string name="sterling_to_euro">Sterling (£) To Euro (€)</string>
+
+    <!--Euro/Rupee buttons-->
+    <string name="euro_to_rupee">Euro (€) To Rupee (₹)</string>
+    <string name="rupee_to_euro"> Rupee (₹) To Euro (€)</string>
+
+</resources>
